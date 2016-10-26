@@ -1,0 +1,33 @@
+typography_spectrum: 0.37019129134926687
+content_rating:
+  adult: false
+color:
+  brandStrength: 0.3905699238223531
+  lightness: 0.849257283336068
+  saturation: 0.9645503413300076
+  rhythmicContrast: 0.4746792061501505
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+github: true
+layout_spectrum: 0.2908756041499131
+author:
+  name: Tony Richie
+  email: tony@tonyrichie.com
+  url: 'http://www.tonyrichie.com'
+name: Tony Richie
+title: 'To Inspire, Educate and Empower!'
+content: []
+description: >-
+  This is my daily life as a new economy digital entrepreneur. Follow me and
+  learn how to live the good life by using todays trends and technologies. 
+purpose:
+  - type: contact
+    url: 'mailto:tony@tonyrichie.com'
+    label: Contact me
+  - type: contact
+    url: 'tel:1-800-683-1726'
+    label: Call 1-800-683-1726
