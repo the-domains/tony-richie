@@ -1,19 +1,19 @@
-typography_spectrum: 0.37019129134926687
+layout_spectrum: 0.8948036461184262
+typography_spectrum: 0.5629148265401289
+color:
+  brandStrength: 0.9534175580943759
+  lightness: 0.6221388966539451
+  saturation: 0.9932664215086157
+  rhythmicContrast: 0.2825753356184405
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 content_rating:
   adult: false
-color:
-  brandStrength: 0.3905699238223531
-  lightness: 0.849257283336068
-  saturation: 0.9645503413300076
-  rhythmicContrast: 0.4746792061501505
-  brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
 github: true
-layout_spectrum: 0.2908756041499131
 author:
   name: Tony Richie
   email: tony@tonyrichie.com
