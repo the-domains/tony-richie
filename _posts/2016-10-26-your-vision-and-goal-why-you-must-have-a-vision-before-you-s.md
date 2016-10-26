@@ -65,13 +65,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=kj2pk5WBDjM'
 title: Your Vision & Goal - Why You MUST Have a Vision Before You Start!
-datePublished: '2016-10-26T18:29:13.678Z'
-dateModified: '2016-10-26T18:29:13.304Z'
+datePublished: '2016-10-26T18:29:16.971Z'
+dateModified: '2016-10-26T18:29:16.711Z'
 via: {}
 inFeed: true
 sourcePath: >-
   _posts/2016-10-26-your-vision-and-goal-why-you-must-have-a-vision-before-you-s.md
-starred: true
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
