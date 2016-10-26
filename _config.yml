@@ -1,5 +1,6 @@
-layout_spectrum: 0.8948036461184262
 typography_spectrum: 0.5629148265401289
+content_rating:
+  adult: false
 color:
   brandStrength: 0.9534175580943759
   lightness: 0.6221388966539451
@@ -11,14 +12,17 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-content_rating:
-  adult: false
 github: true
+layout_spectrum: 0.8948036461184262
 author:
   name: Tony Richie
   email: tony@tonyrichie.com
   url: 'http://www.tonyrichie.com'
 name: Tony Richie
+navigation:
+  - name: Cars
+    id: 7b8b6f53-4062-4a05-815b-1030c1c5e854
+    type: content
 title: 'To Inspire, Educate and Empower!'
 content: []
 description: >-
