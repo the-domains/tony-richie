@@ -23,6 +23,9 @@ navigation:
   - name: Cars
     id: 7b8b6f53-4062-4a05-815b-1030c1c5e854
     type: content
+  - name: About me
+    id: 6f59b115-69e5-44d0-af32-25d0b317b116
+    type: content
 title: 'To Inspire, Educate and Empower!'
 content: []
 description: >-
